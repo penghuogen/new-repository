@@ -1,1 +1,4 @@
 # new-repository
+a8bfe53cf9d7fa94ed5d85d61cf028348a6a1268b8027c9bc95ca96edd90ba13  opencv-4.8.1-android-sdk.zip
+0689312a9de439757618a412b266dc5ee75d2e32aefa9eac32c3f808ade06331  opencv-4.8.1-ios-framework.zip
+037dd1c5c172237b0a00ee822684e5ac453028e1933111a2c547b62061f8b7e4  opencv-4.8.1-windows.exe
